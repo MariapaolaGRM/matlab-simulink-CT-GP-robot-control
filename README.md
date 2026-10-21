@@ -24,7 +24,7 @@ The repository contains MATLAB scripts for dataset generation, GP training, vali
 ```text
 .
 ├── README.md
-├── [Report](https://github.com/MariapaolaGRM/matlab-simulink-CT-GP-robot-control/relation.pdf)     # Detailed description of the proposed methods.
+├── Report.pdf     # Detailed description of the proposed methods.
 ├── scripts/
 │   ├── generate_gp_dataset.m
 │   ├── train_gp.m
